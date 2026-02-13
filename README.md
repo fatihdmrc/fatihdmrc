@@ -48,11 +48,9 @@
 
 ---
 
-## 📈 GitHub İstatistiklerim
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fatihdmrc&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=fatihdmrc&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=fatihdmrc&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fatihdmrc&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
 
 ---
