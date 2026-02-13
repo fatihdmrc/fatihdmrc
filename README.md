@@ -50,11 +50,10 @@
 
 ## 📈 GitHub İstatistiklerim
 
-> Eğer istatistikler gözükmezse, profil reposunun adı kullanıcı adın ile aynı olmalıdır: `fatihdmrc`
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fatihdmrc&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fatihdmrc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fatihdmrc&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fatihdmrc&layout=compact&theme=tokyonight)
 
 ---
 
