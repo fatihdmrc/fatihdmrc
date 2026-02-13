@@ -48,21 +48,6 @@
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fatihdmrc&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fatihdmrc&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
-
-
----
-
-## 🔧 Öne Çıkan Projelerim
-
-- 💡 [Patika C# 101 Eğitim Projeleri](https://github.com/fatihdmrc/PatikaCSharp101)
-- 🧩 [Nesne Tabanlı Programlama Ödevleri](https://github.com/fatihdmrc/PatikaNesneTabanliProgramlamaOdevleri)
-- 🖥️ [C# Konsol Projeleri](https://github.com/fatihdmrc/PatikaCSharpKonsolProjeleri)
-
----
-
 ## 📫 Bana Ulaşın
 
 - ✉️ E-posta: fathdmrc01@gmail.com  
